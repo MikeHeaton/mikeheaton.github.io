@@ -1,2 +1,3 @@
-# mikeheaton.github.io
-Github Pages site
+## This is my website
+
+It contains some text and stuff I guess
